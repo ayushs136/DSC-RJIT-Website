@@ -1,7 +1,14 @@
 [{
+    "eventName": "Getting Started with Elastic Cloud",
+    "info":"Enterprise search, observability, and security for your cloud, Quickly and easily find information, gain insights, and protect your technology investment whether you run on Google Cloud, Microsoft Azure, or Amazon Web Services.",     
+    "date":"4th September 2020",
+    "imgSrc":"./assets/img/Events/elastic.png",
+    "fbLink":"https://commudle.com/communities/dsc-rjit/events/getting-started-with-elastic-cloud"
+},
+{
     "eventName": "Getting Started with Flutter",
     "info":"Flutter is a new mobile app SDK to help developers and designers build modern mobile apps for iOS and Android. In this 3Hrs codelab session, you will write your very first mobile app with Flutter, get a brief overview of Dart language and tools and Flutter concepts. ",     
-    "date":"8th March 2020",
+    "date":"8th july 2020",
     "imgSrc":"./assets/img/Events/fluttergwl.png",
     "fbLink":"https://commudle.com/dsc-rjit/events/getting-started-with-flutter"
 },
